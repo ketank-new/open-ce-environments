@@ -1,5 +1,5 @@
 packages:
   - feedstock : https://github.com/ketank-new/srsly-feedstock.git
-      git-tag:    8cabb8f85b5f57249e94a169afdce7f24366de3d
+    git_tag: 8cabb8f85b5f57249e94a169afdce7f24366de3d
   - feedstock : thinc
   - feedstock : spacy
